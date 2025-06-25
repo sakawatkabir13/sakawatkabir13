@@ -32,7 +32,6 @@
 
 ### 📫 Social
 - LinkedIn: [www.linkedin.com/in/s-kbr13](https://www.linkedin.com/in/s-kbr13)  
-- Twitter: _Coming soon…_  
 - Personal Website: _Coming soon…_  
 
 <p align="right">
