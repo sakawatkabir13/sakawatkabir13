@@ -7,32 +7,33 @@
 
 ---
 
-### 🧰 Toolbox
+### Toolbox
 
 <p align="center">
-  <img align="center" alt="Python"height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="C#"    height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="C++"   height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="C"     height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img align="center" alt="Java"   height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="C#"     height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="C++"    height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="C"      height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 </p>
 
 ---
 
-### 🔭 I’m working on
-- _Projects coming soon… stay tuned!_  
+### I’m working on
+- 🚀 **Java Spring Boot Project** – building a robust backend for my latest app  
 
-### 🌱 I’m currently learning
+### I’m currently learning
+- ☕ Java Spring Boot framework
+- 🌐 Networking fundamentals
 - 🤖 Building Discord bots  
-- 🌐 Networking fundamentals (ethical hacking focus)  
 
-### 🎉 Fun Facts
+### Facts
 - ☕ Fueled by coffee  
 - 🦉 Night-owl debugging sessions  
-- 🔒 Puzzle-lover 
+- 🔒 Puzzle-lover  
 
-### 📫 Social
+### Social
 - LinkedIn: [www.linkedin.com/in/s-kbr13](https://www.linkedin.com/in/s-kbr13)  
-- Personal Website: _Coming soon…_  
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sakawatkabir13" alt="Profile views"/>
