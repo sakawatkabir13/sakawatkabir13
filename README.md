@@ -39,7 +39,7 @@ backend development and deploying and running services on AWS cloud infrastructu
 |---|---|
 | **1st Runner-Up**, Zero to Production: The Ultimate Hackathon | CUET IEEE Computer Society × Poridhi.io — team *Cuet cryptic_knights* |
 | **CUET IUPC 2025** | Team ranked 111th — team *CUET_DEBUGFORCES* |
-| **Participant** | ICPC Asia Dhaka Preliminary 2024 — team *CUET_DEBUGFORCES* | 
+| **Participant**, ICPC Asia Dhaka Preliminary 2024 | team *CUET_DEBUGFORCES* | 
 | **7th place**, Intra-University Junior Programming Contest | CUET Computer Club |
 | **Pupil**, Codeforces | 500+ problems solved across online judges |
 | **MAGE tier, Top 4%**, TryHackMe | 10,900+ points |
@@ -68,7 +68,6 @@ Bash, network traffic analysis, intrusion detection concepts
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="32"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="32"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="32"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="32"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="32"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="32"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="32"/>
