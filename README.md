@@ -43,6 +43,7 @@ backend development and deploying and running services on AWS cloud infrastructu
 | **7th place**, Intra-University Junior Programming Contest | CUET Computer Club |
 | **Pupil**, Codeforces | 500+ problems solved across online judges |
 | **MAGE tier, Top 4%**, TryHackMe | 10,900+ points |
+| **[Data Engineer Associate](https://www.datacamp.com/certificate/DEA0011268715074)** | DataCamp |
 | **CompTIA Network+ (N10-009)** | Course Completion — CBT Nuggets |
 
 ## Technical Skills
