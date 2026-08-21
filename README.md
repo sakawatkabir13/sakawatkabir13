@@ -81,3 +81,7 @@ Explore my [portfolio](https://basilisk13.sakawatkabir.me), view my
 [resume](https://basilisk13.sakawatkabir.me/resume.pdf), or reach out through
 [LinkedIn](https://www.linkedin.com/in/s-kbr13) or
 [email](mailto:tanveersakawat13@gmail.com).
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sakawatkabir13&color=blueviolet&style=flat-square" alt="Profile views"/>
+</p>
