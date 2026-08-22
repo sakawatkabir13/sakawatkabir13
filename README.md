@@ -20,12 +20,7 @@
 
 ## About
 
-Computer Science undergraduate building secure, real-world systems, with hands-on
-experience in penetration testing, networking, threat detection, backend engineering,
-and self-hosted AWS infrastructure. I build dependable backend and infrastructure
-systems, then test and harden them through authorized security labs. My
-competitive-programming background has shaped a systems-first approach to understanding
-how software works internally.
+Computer Science undergraduate building secure, real-world systems, with hands-on experience in penetration testing, networking, threat detection, backend engineering, and self-hosted AWS infrastructure. My competitive programming background shapes a systems-first approach to security: understanding how software and infrastructure work internally, then testing and hardening them.
 
 ## What I'm Working On
 
@@ -61,13 +56,13 @@ Twingate
 
 | Highlight | Evidence | Date |
 |---|---|---|
-| **[1st Runner-Up — Zero to Production](https://basilisk13.sakawatkabir.me/certificates/zero-to-production-runner-up.pdf)** | Built CinemaSeat with team *Cuet cryptic_knights* at the IEEE Computer Society CUET × Poridhi.io hackathon | Aug 2026 |
-| **[TryHackMe: MAGE · Top 4%](https://tryhackme.com/p/Basilisk13)** | Hands-on security rooms spanning offensive and defensive topics | Jul 2026 |
-| **[Associate Data Engineer](https://www.datacamp.com/certificate/DEA0011268715074)** | DataCamp credential covering SQL, ETL, data modeling, cleaning, and validation | Feb 2026 |
+| **1st Runner-Up — Zero to Production** | Built CinemaSeat with team *Cuet cryptic_knights* at the IEEE Computer Society CUET × Poridhi.io hackathon | Aug 2026 |
+| **TryHackMe: MAGE · Top 4%** | Hands-on security rooms spanning offensive and defensive topics | Jul 2026 |
+| **Associate Data Engineer** | DataCamp credential covering SQL, ETL, data modeling, cleaning, and validation | Feb 2026 |
 | **CUET IUPC 2025 — Team Rank 111** | Competed against university teams from across Bangladesh as part of *CUET_DEBUGFORCES* | Dec 2025 |
-| **[CompTIA Network+ (N10-009) Course Completion](https://basilisk13.sakawatkabir.me/comptia-network-plus-cbt-nuggets.pdf)** | Completed the CBT Nuggets course covering networking and troubleshooting fundamentals | Dec 2025 |
-| **[Codeforces Pupil](https://codeforces.com/profile/s_kbr13)** | Rating 1201, maximum 1226; 500+ problems solved across online judges | Mar 2025 |
-| **[ICPC Asia Dhaka Preliminary 2024](https://basilisk13.sakawatkabir.me/certificates/icpc-2024-dhaka-preliminary-honorable.pdf)** | Competed as part of *CUET_DEBUGFORCES* | Nov 2024 |
+| **CompTIA Network+ (N10-009) Course Completion** | Completed the CBT Nuggets course covering networking and troubleshooting fundamentals | Dec 2025 |
+| **Codeforces Pupil** | Rating 1201, maximum 1226; 500+ problems solved across online judges | Mar 2025 |
+| **ICPC Asia Dhaka Preliminary 2024** | Competed as part of *CUET_DEBUGFORCES* | Nov 2024 |
 | **7th Place — Junior Programming Contest** | Intra-university contest organized by the CUET Computer Club | Mar 2024 |
 
 ## Technical Writing
