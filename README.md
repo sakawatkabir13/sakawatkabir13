@@ -6,10 +6,8 @@
 <p>Security-Focused Backend & Systems Developer · Competitive Programmer</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-09090B?style=flat-square&logo=vercel&logoColor=white)](https://basilisk13.sakawatkabir.me)
-[![Resume](https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=readthedocs&logoColor=white)](https://basilisk13.sakawatkabir.me/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-kbr13)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanveersakawat13@gmail.com)
-
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Basilisk13)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/3214075)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/s_kbr13)
