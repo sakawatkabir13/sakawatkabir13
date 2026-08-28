@@ -54,7 +54,7 @@ threat detection, Scapy, eBPF/BCC
 **DevOps, Systems & Infrastructure** — Linux, Docker, AWS EC2, Git, GitHub Actions,
 CI/CD, Nginx Proxy Manager, Twingate
 
-## Selected Achievements & Credentials
+## Achievements & Credentials
 
 | Highlight | Evidence | Date |
 |---|---|---|
