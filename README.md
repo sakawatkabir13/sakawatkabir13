@@ -48,8 +48,8 @@ My competitive programming background shapes a systems-first approach to securit
 **Backend & Data Engineering** — FastAPI, Django, Spring Boot, PostgreSQL, MySQL,
 Redis, SQL, ETL, data modeling, data cleaning, data validation
 
-**Security & Networking** — Penetration-testing labs, network traffic analysis,
-threat detection, Scapy, eBPF/BCC
+**Security & Networking** — Penetration-testing, network traffic analysis,
+threat detection, Scapy, eBPF/BCC, DNS, TCP/IP
 
 **DevOps, Systems & Infrastructure** — Linux, Docker, AWS EC2, Git, GitHub Actions,
 CI/CD, Nginx Proxy Manager, Twingate
