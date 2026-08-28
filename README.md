@@ -4,6 +4,7 @@
 
 <p><strong>CSE Undergraduate · Chittagong University of Engineering & Technology (CUET)</strong></p>
 <p>Security-Focused Backend & Systems Developer · Competitive Programmer</p>
+<p>Penetration Testing · Networking · DevOps · Linux & Cloud Infrastructure</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-09090B?style=flat-square&logo=vercel&logoColor=white)](https://basilisk13.sakawatkabir.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-kbr13)
@@ -18,7 +19,9 @@
 
 ## About
 
-Computer Science undergraduate building secure, real-world systems, with hands-on experience in penetration testing, networking, threat detection, backend engineering, and self-hosted AWS infrastructure. My competitive programming background shapes a systems-first approach to security: understanding how software and infrastructure work internally, then testing and hardening them.
+Computer Science undergraduate building and securing real-world systems across backend engineering, penetration testing, networking, DevOps, and self-hosted AWS infrastructure. I work with Linux, Docker, Git, reverse proxies, databases, and cloud services to build, deploy, operate, and harden systems.
+
+My competitive programming background shapes a systems-first approach to security: understand how software and infrastructure work internally, then test, improve, and secure them.
 
 ## What I'm Working On
 
@@ -26,13 +29,14 @@ Computer Science undergraduate building secure, real-world systems, with hands-o
 - Progressing through TryHackMe's **Junior Pentester** path
 - Practicing on **Hack The Box** and **picoCTF**
 - Designing and self-hosting full-stack applications on **AWS EC2**
+- Building repeatable CI/CD workflows with **GitHub Actions** to automate testing and application delivery
 
 ## Featured Projects
 
 | Project | What it demonstrates | Core stack |
 |---|---|---|
 | **[Real-Time Cyber Attack Monitoring & Threat Intelligence Platform](https://github.com/sakawatkabir13/Real-time-cyber-attack-monitoring-and-threat-intelligence-platform)** | Self-hosted pipeline that detects SQLi, XSS, brute-force, and DDoS activity with a hybrid rule and ML engine, then streams findings to a live dashboard | TypeScript, WebSocket, ML |
-| **[CinemaSeat](https://github.com/sakawatkabir13/CinemaSeat)** | Concurrency-safe booking using Redis atomic holds and PostgreSQL constraints; a 100-buyer contention test produced one success, 99 clean conflicts, and zero oversells | FastAPI, React, PostgreSQL, Redis |
+| **[CinemaSeat](https://github.com/sakawatkabir13/CinemaSeat)** | Concurrency-safe booking using Redis atomic holds and PostgreSQL constraints; a 100-buyer contention test produced one success, 99 clean conflicts, and zero oversells, with validation and delivery automated through GitHub Actions CI/CD | FastAPI, React, PostgreSQL, Redis, GitHub Actions, CI/CD |
 | **[Full Custom DNS Spoofer with Scapy](https://github.com/sakawatkabir13/full-custom-dns-spoofer-with-scapy)** | Authorized-lab toolkit covering network discovery, ARP spoofing, packet inspection, and targeted DNS interception | Python, Scapy, ARP, DNS |
 | **[Self-Hosted Cloud Server](https://github.com/sakawatkabir13/Self-Hosted-Cloud-Server)** | Private, containerized cloud with file sync, HTTPS, local DNS, and zero-trust remote access | Docker, Nextcloud, Pi-hole, Twingate |
 | **[Basilisk Shell](https://github.com/sakawatkabir13/basilisk-shell)** | Natural-language terminal assistant with audited command generation, layered safety checks, and risk-gated execution | Python, Bash, Linux |
@@ -47,8 +51,8 @@ Redis, SQL, ETL, data modeling, data cleaning, data validation
 **Security & Networking** — Penetration-testing labs, network traffic analysis,
 threat detection, Scapy, eBPF/BCC
 
-**Systems & Infrastructure** — Linux, Docker, AWS EC2, Git, Nginx Proxy Manager,
-Twingate
+**DevOps, Systems & Infrastructure** — Linux, Docker, AWS EC2, Git, GitHub Actions,
+CI/CD, Nginx Proxy Manager, Twingate
 
 ## Selected Achievements & Credentials
 
@@ -69,7 +73,7 @@ Twingate
 
 ## Get in Touch
 
-I'm open to internships and entry-level roles in security, backend engineering, and infrastructure.
+I'm open to internships and entry-level roles in security, backend engineering, DevOps, and infrastructure.
 Explore my [portfolio](https://basilisk13.sakawatkabir.me), view my
 [resume](https://basilisk13.sakawatkabir.me/resume.pdf), or reach out through
 [LinkedIn](https://www.linkedin.com/in/s-kbr13) or
